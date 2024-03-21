@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263044031597",
+    "project_id": "safar-saathi-52597",
+    "storage_bucket": "safar-saathi-52597.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263044031597:android:e3b6af33708a121d440b64",
+        "android_client_info": {
+          "package_name": "com.example.safarsaathi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA3mmKsD8WvZRoXfLdLYNXZ-X8aM73cnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

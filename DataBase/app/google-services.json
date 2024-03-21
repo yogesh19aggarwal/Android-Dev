@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162801687650",
+    "project_id": "database-ab02a",
+    "storage_bucket": "database-ab02a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162801687650:android:7d8aaf4064ebacb243c53b",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8BtGp4lo56seq3aZKi_orF6v-5ixmvsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
